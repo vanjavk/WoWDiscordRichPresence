@@ -1,0 +1,7 @@
+## Interface: 90001
+## Title: Discord Rich Presence
+## Version: v1.0.2
+## Author: Arwic@Frostmourne-US (now maintained by vanjavk)
+## Notes: Data gatherer for discord rich presence
+
+DiscordRichPresence.lua
